@@ -12,8 +12,6 @@
 
 [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MishaSok&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Streak](https://streak-stats.demolab.com/?user=MishaSok&theme=radical)](https://github.com/DenverCoder1/github-readme-streak-stats)
-
 ### 🏆 Трофеи
 
 [![Trophies](https://github-profile-trophy.vercel.app/?username=MishaSok&theme=radical&no-frame=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
