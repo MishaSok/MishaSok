@@ -31,6 +31,17 @@
       Built with Electron and vanilla JS. <i>Created and maintained by me (author).</i>
     </td>
   </tr>
+  <tr>
+    <td width="80" align="center">
+      <a href="https://github.com/MishaSok/ProxyTools">
+        <img src="https://raw.githubusercontent.com/MishaSok/ProxyTools/HEAD/images/logo.png" width="64" alt="ProxyTools icon" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/MishaSok/ProxyTools"><b>ProxyTools</b></a> — a terminal toolkit for collecting, counting and checking proxy servers.<br/>
+      Built with Python. <i>Created and maintained by me (author).</i>
+    </td>
+  </tr>
 </table>
 
 ### 🏆 Trophies
