@@ -17,6 +17,22 @@
   </a>
 </p>
 
+### 🚀 Projects
+
+<table>
+  <tr>
+    <td width="80" align="center">
+      <a href="https://github.com/MishaSok/audex-player">
+        <img src="https://raw.githubusercontent.com/MishaSok/audex-player/HEAD/build/icons/128x128.png" width="64" alt="Audex icon" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/MishaSok/audex-player"><b>Audex</b></a> — a minimal desktop music player for your local audio library.<br/>
+      Built with Electron and vanilla JS. <i>Created and maintained by me (author).</i>
+    </td>
+  </tr>
+</table>
+
 ### 🏆 Trophies
 
 [![Trophies](https://github-profile-trophy.vercel.app/?username=MishaSok&theme=radical&no-frame=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
